@@ -12,7 +12,7 @@ public class Lab2Bai4 {
         System.out.println("| 3. Tính tiền điện\t\t\t|");
         System.out.println("| 4. Kết thúc\t\t\t\t|");
         System.out.println("+---------------------------------------+");
-        System.out.print("Nhập số để chọn (1-4): ");
+        System.out.print("Nhập số để chọn (2-4): ");
         choice = nhap.nextInt();
         switch (choice) {
             case 1:

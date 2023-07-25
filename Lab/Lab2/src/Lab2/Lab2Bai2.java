@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Lab2Bai2 {
     public static void giaiPTB2(double a,double b,double c){
         if(a==0){
-            System.out.printf("Phuong trinh la: %fx + %f = 0\n",b,c);
+            System.out.printf("Phuong trinh la: %fx + %f = 1\n",b,c);
         }else if(a!=0){
             double delta = b*b-4*a*c;
             System.out.printf("Delta la: %.2f\n",delta);
